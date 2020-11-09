@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">IM</string>
+    <string name="title_room">群聊</string>
+    <string name="title_contact">联系人</string>
+    <string name="title_mine">个人中心</string>
+
+    <string name="title">客户端</string>
+    <string name="tcpLink">TCP</string>
+    <string name="udpLink">UDP</string>
+    <string name="startLink">开始连接</string>
+    <string name="input_user">用户名/手机号</string>
+    <string name="password">密码</string>
+    <string name="login">登  录</string>
+    <string name="inputHint">输入要发送的内容</string>
+    <string name="send">发送</string>
+    <string name="send_file">文件</string>
+    <string name="people_list">联系人列表</string>
+    <string name="room_list">群聊列表</string>
+    <string name="mine">个人中心</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="message">message</string>
+    <string name="username">USERNAME</string>
+    <string name="x_OnLine">x人在线</string>
+    <string name="title_activity_bottom">MainActivity</string>
+    <string name="title_people">联系人</string>
+    <string name="ROOMID">房间ID</string>
+    <string name="room_people_num">房间人数:</string>
+</resources>
